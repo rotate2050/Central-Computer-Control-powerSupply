@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="CCCPS"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Program Files/iReport-4.5.1/ireport/modules/com-jaspersoft-ireport.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Program Files/iReport-4.5.1/ireport/modules/ext/commons-digester-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Program Files/iReport-4.5.1/ireport/modules/ext/jasperreports-4.5.1.jar"/>
+	<classpathentry kind="src" path="Admin"/>
+	<classpathentry kind="src" path="Setup"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
